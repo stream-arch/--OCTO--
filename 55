@@ -1,0 +1,70 @@
+。突出显示。HLL { 背景色：＃ FFFFCC }
+。突出显示   { 背景：＃ f0f3f3 ; }
+。突出显示。c { 颜色：＃ 0099FF ; 字体样式：斜体} / *评论* /
+。突出显示。错误 { 颜色：＃ AA0000 ; 背景颜色：＃ FFAAAA } / * *错误/
+。突出显示。k { 颜色：＃ 006699 ; font-weight：粗体} / *关键字* /
+。突出显示。o { 颜色：＃ 555555 } / *运算符* /
+。突出显示。厘米 { 颜色：＃ 0099FF ; 字体样式：斜体} / * Comment.Multiline * /
+。突出显示。cp { color：＃ 009999 } / * Comment.Preproc * /
+。突出显示。c1 { 颜色：＃ 0099FF；字体样式：斜体} / * Comment.Single * /
+。突出显示。cs { 颜色：＃ 0099FF ; font-weight：粗体; 字体样式：斜体} / * Comment.Special * /
+。突出显示。GD { 背景色：＃ FFCCCC ; 边框：1 px实线＃ CC0000 } / *常规已删除* /
+。突出显示。ge { font-style：italic} / * Generic.Emph * /
+。突出显示。gr { color：＃ FF0000 } / * Generic.Error * /
+。突出显示。gh { 颜色：＃ 003300 ; font-weight：粗体} / * Generic.Heading * /
+。突出显示。GI { 背景色：＃ CCFFCC ; 边框：1 px实线＃ 00CC00 } / *通用插入* /
+。突出显示。走 { 颜色：＃ AAAAAA } / * * Generic.Output /
+。突出显示。gp { 颜色：＃ 000099 ; font-weight：bold} / * Generic.Prompt * /
+。突出显示。gs { font-weight：bold} / * Generic.Strong * /
+。突出显示。顾 { 颜色：＃ 003300 ; font-weight：粗体} / * Generic.Subheading * /
+。突出显示。gt { color：＃ 99CC66 } / * Generic.Traceback * /
+。突出显示。kc { 颜色：＃ 006699 ; font-weight：bold} / * Keyword.Constant * /
+。突出显示。kd { 颜色：＃ 006699 ; font-weight：粗体} / * Keyword.Declaration * /
+。突出显示。kn { 颜色：＃ 006699 ; font-weight：粗体} / * Keyword.Namespace * /
+。突出显示。kp { color：＃ 006699 } / * Keyword.Pseudo * /
+。突出显示。kr { 颜色：＃ 006699 ; font-weight：bold} / * Keyword.Reserved * /
+。突出显示。kt { 颜色：＃ 007788 ; font-weight：粗体} / * Keyword.Type * /
+。突出显示。m { color：＃ FF6600 } / * Literal.Number * /
+。突出显示。s { color：＃ CC3300 } / * Literal.String * /
+。突出显示。na { color：＃ 330099 } / * Name.Attribute * /
+。突出显示。nb { color：＃ 336666 } / * Name.Builtin * /
+。突出显示。nc { 颜色：＃ 00AA88 ; font-weight：粗体} / * Name.Class * /
+。突出显示。没有 { 颜色：＃ 336600 } / * * Name.Constant /
+。突出显示。nd { color：＃ 9999FF } / * Name.Decorator * /
+。突出显示。ni { color：＃ 999999 ; font-weight：粗体} / * Name.Entity * /
+。突出显示。ne { color：＃ CC0000 ; font-weight：粗体} / * Name.Exception * /
+。突出显示。nf { color：＃ CC00FF } / *名称。功能* /
+。突出显示。nl { color：＃ 9999FF } / * Name.Label * /
+。突出显示。nn { 颜色：＃ 00CCFF ; font-weight：粗体} / * Name.Namespace * /
+。突出显示。nt { 颜色：＃ 330099 ; font-weight：粗体} / * Name.Tag * /
+。突出显示。nv { color：＃ 003333 } / * Name.Variable * /
+。突出显示。ow { 颜色：＃ 000000 ; font-weight：粗体} / * Operator.Word * /
+。突出显示。w ^ { 颜色：＃ BBBBBB } / * * Text.Whitespace /
+。突出显示。mf { color：＃ FF6600 } / * Literal.Number.Float * /
+。突出显示。mh { color：＃ FF6600 } / * Literal.Number.Hex * /
+。突出显示。mi { color：＃ FF6600 } / * Literal.Number.Integer * /
+。突出显示。mo { color：＃ FF6600 } / * Literal.Number.Oct * /
+。突出显示。sb { color：＃ CC3300 } / * Literal.String.Backtick * /
+。突出显示。sc { color：＃ CC3300 } / * Literal.String.Char * /
+。突出显示。sd { 颜色：＃ CC3300 ; 字体样式：斜体} / * Literal.String.Doc * /
+。突出显示。s2 { color：＃ CC3300 } / * Literal.String.Double * /
+。突出显示。se { 颜色：＃ CC3300 ; font-weight：粗体} / * Literal.String.Escape * /
+。突出显示。sh { color：＃ CC3300 } / * Literal.String.Heredoc * /
+。突出显示。si { color：＃ AA0000 } / * Literal.String.Interpol * /
+。突出显示。sx { color：＃ CC3300 } / * Literal.String.Other * /
+。突出显示。sr { color：＃ 33AAAA } / * Literal.String.Regex * /
+。突出显示。s1 { color：＃ CC3300 } / * Literal.String.Single * /
+。突出显示。ss { color：＃ FFCC33 } / * Literal.String.Symbol * /
+。突出显示。bp { color：＃ 336666 } / * Name.Builtin.Pseudo * /
+。突出显示。vc { color：＃ 003333 } / * Name.Variable.Class * /
+。突出显示。vg { color：＃ 003333 } / * Name.Variable.Global * /
+。突出显示。vi { color：＃ 003333 } / * Name.Variable.Instance * /
+。突出显示。il { color：＃ FF6600 } / * Literal.Number.Integer.Long * /
+
+。type-csharp。突出显示。k { 颜色：＃ 0000FF }
+。type-csharp。突出显示。kt { 颜色：＃ 0000FF }
+。type-csharp。突出显示。nf { 颜色：＃ 000000 ; font-weight：正常}
+。type-csharp。突出显示。nc { 颜色：＃ 2B91AF }
+。type-csharp。突出显示。nn { 颜色：＃ 000000 }
+。type-csharp。突出显示。s { 颜色：＃ A31515 }
+。type-csharp。突出显示。sc { 颜色：＃ A31515 }

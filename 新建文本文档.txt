@@ -1,0 +1,199 @@
+	常用密集
+恶棍工具                                               LCTRL + 1
+匪徒武器                                               LCTRL + 2
+杀手武器                                               LCTRL + 3
+生命值, 防弹衣 $250000                                 LCTRL + 4
+不受子弹伤害，无敌状态                                 LCTRL + 5
+获得飞行背包                                           LCTRL + 6
+获得降落伞                                             LCTRL + 7
+无限子弹                                               LCTRL + 8
+武器操作都在杀手级别                                   LCTRL + 9
+最高驾驶 可以在车上开枪                                LCTRL + 0
+生命值不减                                             RCTRL + 1
+防弹衣无损                                             RCTRL + 2
+无限奔跑                                               RCTRL + 3
+给  $500000                                            RCTRL + 4
+提高两颗警星                                           CTRL + A
+警星清零                                               CTRL + S
+六颗警醒                                               CTRL + D
+不会被通缉                                             CTRL + F
+
+			人物状态    
+慢镜头模式                                             CTRL + G
+超级跳跃                                               CTRL + H
+一拳必杀                                               CTRL + J
+永远不会饥饿                                           CTRL + K
+无限氧气                                               CTRL + L
+胖                                                     CTRL + Z
+瘦                                                     CTRL + X
+最大肌肉值                                             CTRL + C
+最大声望                                               CTRL + V
+最大性感值                                             CTRL + B
+到处是帮派兄弟                                         CTRL + N
+帮派占领这条街                                         CTRL + M
+最大耐力                                               RCTRL + 5
+最大赌术                                               RCTRL + 6
+最大潜水技巧                                           RCTRL + 7
+
+			交通工具      
+坦克车                                                 LSHIFT + 1
+超长油罐车                                             LSHIFT + 2
+赛车                                                   LSHIFT + 3
+葬礼车                                                 LSHIFT + 4
+加长车                                                 LSHIFT + 5
+垃圾车                                                 LSHIFT + 6
+观光车                                                 LSHIFT + 7
+战斗机                                                 LSHIFT + 8
+超级两用游艇                                           LSHIFT + 9
+阿帕奇                                                 LSHIFT + 0
+四轮摩托                                               RSHIFT + 1
+工地卡车                                               RSHIFT + 2
+推土机                                                 RSHIFT + 3
+双翼飞机                                               RSHIFT + 4
+大轮胎越野车                                           RSHIFT + 5
+Spawn Selected Car #1                                  RSHIFT + 6
+Spawn Selected Car #2                                  RSHIFT + 7
+Spawn Selected Car #3                                  RSHIFT + 8
+Spawn Selected Car #4                                  RSHIFT + 9
+Spawn Selected Car #5                                  RSHIFT + 0
+上一辆车       (RSHIFT + 0)                            RSHIFT + [
+下一辆车   (RSHIFT + 0)                                RSHIFT + ]
+
+			车辆状态
+炸毁所有车辆                                           RSHIFT + Q
+车辆隐形                                               RSHIFT + W
+车辆最佳操控性                                         RSHIFT + E
+都是绿灯                                               RSHIFT + R
+NPC疯狂驾驶                                            RSHIFT + T
+玩家稳定驾驶                                           RSHIFT + Y
+玩家疯狂驾驶                                           RSHIFT + U
+船可以飞                                               RSHIFT + I
+到处都是损伤的车                                       RSHIFT + O
+到处是飞速的车                                         RSHIFT + P
+车可以飞                                               RSHIFT + A
+车容易损坏                                             RSHIFT + S
+所有车都有Nitro                                        RSHIFT + D
+车被撞时会飞                                           RSHIFT + F
+减少路上的车                                           RSHIFT + G
+路上全是国家的车                                       RSHIFT + H
+最高驾驶技术                                           RSHIFT + J
+所有车都防弹                                           RSHIFT + K
+无限Nitrous                                            RSHIFT + L
+所有车一击即毁                                         RSHIFT + Z
+BMX超级跳跃                                            RSHIFT + X
+永远不会损坏                                           LSHIFT + H
+沉重的汽车                                             LSHIFT + J
+车都是带锁的                                           LSHIFT + Z
+翻车                                                   LSHIFT + X
+车可以漂浮                                             LSHIFT + C
+安装/拆卸 车辆中的炸弹                                 TAB + R
+选择车身的颜色                                         TAB + T
+选择车条纹颜色                                         TAB + Y
+
+			其他密集
+暴乱的市民                                             LSHIFT + Q
+市民都持有武器                                         LSHIFT + W
+玩家自杀                                               LSHIFT + E
+到处是猫王角色                                         LSHIFT + R
+市民攻击玩家                                           LSHIFT + T
+海滩派对造型                                           LSHIFT + Y
+忍者造型                                               LSHIFT + U
+得到女性的关注                                         LSHIFT + I
+暴力模式                                               LSHIFT + O
+趣味屋造型主题                                         LSHIFT + P
+都持有9MM手枪                                          LSHIFT + A
+都持有AK47步枪                                         LSHIFT + S
+都配备火箭筒                                           LSHIFT + D
+完成100 涂鸦                                           RSHIFT + C
+完成50 捡牡蛎                                          RSHIFT + V
+完成50 拍照任务                                        RSHIFT + B
+完成50 马蹄标志                                        RSHIFT + N
+70 特技跳跃                                            TAB + X
+完成100% 所有任务                                      RSHIFT + M
+获得监察员船                                           LSHIFT + N
+Open All Tasks in a Driving School with 100%           TAB + Q
+Open All Tasks in a Bike School with 100%              TAB + W
+Open All Tasks in a Summer School with 100%            TAB + E
+Open All Tasks in a Boat School with 100%              TAB + M
+增加重力：                                             TAB + ]
+减少重力：                                             TAB + [
+默认重力                                               TAB + P
+一击必杀                                               TAB + G
+所有熟练度最高                                         TAB + H
+杀手级瞄准                                             TAB + L
+选择出拳的样式                                         TAB + Z
+女友FUN高兴                                            ALT + R
+女友很激动                                             ALT + J
+Null Status of Employment in an Sports Hall            ALT + I
+Toggle All Profs to Aimed Human                        ALT + Z
+精准杀人                                               ALT + X
+获得最高生命和防弹衣                                   ALT + C
+
+			时间天气      
+晴天                                                   CTRL + Q
+好天气                                                 CTRL + W
+阴天                                                   CTRL + E
+下雨                                                   CTRL + R
+Foggy                                                  CTRL + T
+有雾                                                   CTRL + Y
+暴风雨                                                 CTRL + U
+时间加快                                               CTRL + I
+游戏速度加快                                           CTRL + O
+游戏速度变慢                                           CTRL + P
+总是午夜                                               LSHIFT + F
+维持在21：00橙色时间                                   LSHIFT + G
+冻结游戏时间                                           RCTRL + 9
+
+			关卡密集             
+获得遥控飞机                                           LSHIFT + B
+冻结关卡的时间                                         RCTRL + 8
+停止关卡的表                                           TAB + B
+冻结盗窃等时间                                         TAB + N
+盗窃没有声音                                           ALT + T
+完成10000 跳舞分数                                     TAB + J
+完成10000 底盘车分数                                   TAB + K
+Toggle Infinite Stingers in Mission "Puncture Wounds"  ALT + U
+12 Level in Paramedic Mission                          ALT + O
+12 Level in Vigilante Mission                          ALT + P
+49 Passengers in Mission of Taxi Driver                ALT + G
+10 Pimping Level                                       ALT + B
+Toggle Zero Height in Mission "N.O.E"                  ALT + H
+
+			Jet Pack
+获得飞行背包                                           ALT + K
+摄影视角模式飞行                                       ALT + L
+加快飞行速度                                           ALT + ]
+减慢飞行速度                                           ALT + [
+向上飞                                                 ALT + ,
+向下飞                                                 ALT + .
+
+			瞬移操作     
+Save Coordinates #1                                    ALT + 1
+Save Coordinates #2                                    ALT + 2
+Save Coordinates #3                                    ALT + 3
+Save Coordinates #4                                    ALT + 4
+Save Coordinates #5                                    ALT + 5
+Save Coordinates #6                                    ALT + 6
+Save Coordinates #7                                    ALT + 7
+Save Coordinates #8                                    ALT + 8
+Save Coordinates #9                                    ALT + 9
+Save Coordinates #10                                   ALT + 0
+To Move on Coordinates #1                              TAB + 1
+To Move on Coordinates #2                              TAB + 2
+To Move on Coordinates #3                              TAB + 3
+To Move on Coordinates #4                              TAB + 4
+To Move on Coordinates #5                              TAB + 5
+To Move on Coordinates #6                              TAB + 6
+To Move on Coordinates #7                              TAB + 7
+To Move on Coordinates #8                              TAB + 8
+To Move on Coordinates #9                              TAB + 9
+To Move on Coordinates #10                             TAB + 0
+
+			作弊  
+清除作弊记录                                           LSHIFT + V
+取消所有作弊状态                                       LSHIFT + M
+
+			杂项 
+保存游戏截图                                           F11
+保存录像                                               F12
+关闭 GTA: SA 进程                                      CTRL + ALT + F5
